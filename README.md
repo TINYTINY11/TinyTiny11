@@ -1,2 +1,2 @@
 # TinyTiny11
-Windows 11 barebones no tasksearch the thing next to the windows logo and removed witgeds 
+I recomend installing this on a vm first before the previwes are over and when beta 1 come out you can install this if you want on real hardware.
